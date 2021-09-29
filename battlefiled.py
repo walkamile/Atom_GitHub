@@ -1,2 +1,3 @@
+A = "this is it"
 
-a = "1st test"
+print(A)
